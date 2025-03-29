@@ -20,9 +20,9 @@ con enfisema (caso) presente la misma presion alveolar que un individuo sano (co
 4. Construir el diagrama de bloques como se indica en la Figura 5.4.
 5. Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para sintonizar los valores optimos para cada una de las ganancias kP,kI ykD.
 6. Ilustrar el cambio del áujo de aire y el volumen tidal en respuesta a las siguientes formas de onda
-de presiÛn sinusoidal en la apertura de la vÌa aÈrea [pao(t)].
-a) 15 respiraciones por minuto con una amplitud (A) de 2:5cmH2O, es decir, respiraciÛn normal.
-b)30 respiraciones por minuto con una amplitud(A) de 1:5cmH2O, es decir, respiraciÛn elevada o taquipnea.
+de presion sinusoidal en la apertura de la via aerea [pao(t)].
+a) 15 respiraciones por minuto con una amplitud (A) de 2:5cmH2O, es decir, respiracion normal.
+b)30 respiraciones por minuto con una amplitud(A) de 1:5cmH2O, es decir, respiracion elevada o taquipnea.
 7. Determinar la respuesta a la funciÛn sinusoidal[u(t) =Asin!t]en el intervalot2[0;30](segundos),en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlador.
 8. Elaborar el diagrama biologico del sistema con BioRender.com.
 9.  Discutir los resultados obtenidos en la experimentacionin silicon y elaborar el reporte de la practica.
